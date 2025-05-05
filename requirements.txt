@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-requests
+ollama
 python-dotenv
+requests
